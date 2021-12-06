@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sehejnarula
 - 👀 I’m interested in expanding my data science portfolio having a base knowledge in spatial data science. I am particularly interested in data and analytics in sports. 
-- 🌱 I’m currently learning spatial data science in my Geography BSc at King's College London. We specifically use on Python and R for analysis
+- 🌱 I’m currently learning spatial data science in my Geography BSc at King's College London. The main langauge we have learned has been Python, however, we have been taught a very basic knowldege of R.
 - 📫 How to reach me: 
                   sehejnarula@gmail.com 
                   UK Phone: 07746590301
